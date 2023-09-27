@@ -1,0 +1,38 @@
+body{
+  margin:0;
+  padding:20px;
+  font-family:'roboto', 'loto' ;
+  color:black;
+  background-image: url('https://www.state.gov/wp-content/uploads/2023/07/shutterstock_667548661v2.jpg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  text-align:center;
+}
+.black-box{
+  width: 325px;
+  height: 325px;
+  background-color: black;
+  margin: 50px auto;
+  color: white;
+  text-align: center;
+}
+.flag-image{
+  margin-top: 40px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+h2{
+  padding-top: 15px;
+  font-color:white;
+}
+
+.center-links{
+  text-align: center;
+  font-family: 'roboto', sans-serif;
+  margin-top: 20px;
+}
+.center-links a {
+  text-decoration: none;
+  color: white;
+}
